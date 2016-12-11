@@ -1,0 +1,12 @@
+{
+    "name": "gaurav/test",
+    "authors": [
+        {
+            "name": "gauravgrover95",
+            "email": "gauravgrover95@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/pagination": "^5.3"
+    }
+}
